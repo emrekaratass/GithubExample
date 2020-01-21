@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubExample</string>
+    <string name="submit">Submit</string>
+    <string name="username">Username</string>
+    <string name="stars">Stars : %s</string>
+    <string name="issue">Open Issues : %s</string>
+</resources>
